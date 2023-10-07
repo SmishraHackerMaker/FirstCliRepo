@@ -5,7 +5,7 @@ mkdir FirstCliRepo
 cd FirstCliRepo
 git init
 vi README.md
-vi commands.txt
+vi commands.sh
 git add .
 git commit -m "initial commit!"
 gh repo create
